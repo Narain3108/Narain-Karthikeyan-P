@@ -13,6 +13,6 @@ Frameworks & Libraries: NumPy, Pandas
 
 Interests: Full-Stack Development, AI & ML, Competitive Programming
 
-📈 GitHub Stats
-
 🌍 Let's Connect
+https://www.linkedin.com/in/narain-karthikeyan-323b97290/
+

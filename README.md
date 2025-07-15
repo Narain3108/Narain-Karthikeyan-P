@@ -91,11 +91,7 @@
 
 ### 📊 GitHub Stats (Live)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narain3108&show_icons=true&theme=radical" alt="Narain GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narain3108&theme=radical" alt="Narain GitHub streak" />
-  <br />
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narain3108&layout=compact&theme=radical" alt="Top languages" />
 </p>
 

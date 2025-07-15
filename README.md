@@ -1,112 +1,105 @@
 <h1 align="center">Hi 👋, I'm Narain Karthikeyan</h1>
-<h3 align="center">🚀 A Passionate Developer | 💻 CSE Undergrad | 🌐 Full-Stack Web & Mobile App Creator | 🤖 AI Explorer</h3>
+<h3 align="center">💻 CSE Undergrad | 💡 Problem Solver | 🌐 Full-Stack Developer | 📱 App Builder | 🤖 AI Explorer | Linux Enthusastic</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=narainkarthikeyan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/narainkarthikeyan?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/contributions/narainkarthikeyan/2024?color=green" />
+  <img src="https://komarev.com/ghpvc/?username=narain3108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/narain3108?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/contributions/narain3108?color=green&label=2024%20Contributions" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 I'm a **Computer Science Engineering (CSE)** undergraduate.
-- 🧠 I love building **web, mobile, and desktop applications**, and exploring **AI & ML**.
-- 👨‍💻 I'm always learning and solving problems on platforms like **LeetCode**, **CodeChef**, and **GitHub**.
-- 💡 Passionate about **Open Source**, system design, and innovative software architecture.
-- 📫 Reach me at **narain@example.com** *(replace with real email)*
+- 🎓 I'm a **Computer Science Engineering (CSE)** undergrad passionate about tech & innovation.
+- 🧠 I build **web apps**, **mobile apps**, **desktop apps**, and **AI projects** from scratch.
+- 💡 I love solving real-world problems through clean code and impactful solutions.
+- 📈 Active in CP with regular contributions on **LeetCode** and **CodeChef**.
+- 🛠️ Currently exploring **Cloud**, **Rust**,**RAG** and **System Design**.
 
 ---
 
-### 💻 Technologies & Tools
+### 🛠️ Tech Stack
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" />
-  <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin" />
-  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql" />
+#### 💬 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-AI%20Driven%20Search-blueviolet?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+#### 💾 Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📱 Notable Projects
+
+- **✅ Full-Stack Job Apps** – FastAPI + Firebase + Role-based Auth
+- **🧠 AI Reminder & Notification System** – WebSocket + Google Form Notifier + Firebase
+- **🖥️ Linux App Usage Tracker** – Rust-based background tracker + PyQt5 frontend
+- **  Driver behaviour analysis** - AI Based application complete monitoring of Public transport and cab drivers safety and public safety, and maintiang a complete Database on Drivers performances
+- ** FlipRollRock**- A game app for random events like Toss, Odd or Even
+
+
+
+
+
+
+
   
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" />
-  <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css" />
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" />
-  <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" />
-  <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" />
-
-  <!-- Mobile & Desktop -->
-  <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter" />
-  <img src="https://img.shields.io/badge/-Android-05122A?style=flat&logo=android" />
-  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
-
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" />
-  <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code" />
-</p>
+🔗 View them all at 👉 [github.com/narain3108](https://github.com/narain3108)
 
 ---
 
-### 🧠 Projects I've Built
+### 💡 Competitive Programming
 
-- ✅ **Full-Stack Job Portal** – FastAPI + Firebase + React
-- 📱 **AI-powered Cross-Platform App** – Flutter + OpenAI
-- 💡 **Code Execution Visualizer** – Python + Java + C/C++ Tracer with Web UI
-- 🖥️ **Linux App Usage Tracker** – Rust + PyQt
-- 📈 **Contest Rating Predictor** – Python + Data Analysis + ML
-- 📢 **Unified Notification System** – Django + WebSocket + MongoDB + Firebase
+- 🔍 **LeetCode**: [naraink007](https://leetcode.com/naraink007)  
+  <img src="https://leetcard.jacoblin.cool/naraink007?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="400" />
 
-> Check out all my repositories 👉 [**github.com/narainkarthikeyan**](https://github.com/narainkarthikeyan)
+- ⚔️ **CodeChef**: [naraink007](https://www.codechef.com/users/naraink007)  
+  <img src="https://cp-logo.vercel.app/codechef/naraink007" alt="CodeChef rating" />
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narainkarthikeyan&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=narain3108&show_icons=true&theme=radical" alt="Narain GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narainkarthikeyan&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narain3108&theme=radical" alt="Narain GitHub streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narainkarthikeyan&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narain3108&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
+### 🌐 Let's Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/narainkarthikeyan" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:narain@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/narainkarthikeyan">
-    <img src="https://img.shields.io/badge/-LeetCode-000000?style=flat&logo=leetcode" />
-  </a>
-  <a href="https://codeforces.com/profile/narainkarthikeyan">
-    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces" />
-  </a>
+<p>
+  <a href="mailto:narain@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/narainkarthikeyan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/naraink007"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/naraink007"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ "Code. Solve. Learn. Repeat."
+  ⚡ <i>"Code. Solve. Learn. Repeat."</i>
 </p>
